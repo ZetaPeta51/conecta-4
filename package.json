@@ -4,7 +4,8 @@
   "description": "Este es una app para jugar al conectar 4 multijugador en red.",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon index.js",
+    "start": "node index.js",
+    "dev": "nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
