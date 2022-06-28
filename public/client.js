@@ -1,6 +1,7 @@
 'use strict'
 
-const WEBSOCKETSERVER = 'http://localhost:3000';
+//const WEBSOCKETSERVER = 'http://localhost:3000';
+const WEBSOCKETSERVER = 'https://conecta-cuatro-z.herokuapp.com/';
 let localPlayer;
 let remotePlayer;
 let localPlayerIndex = -1;
