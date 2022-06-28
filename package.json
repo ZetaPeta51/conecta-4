@@ -11,6 +11,10 @@
   "keywords": [
     "juego"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ZetaPeta51/conecta-4.git"
+  },
   "author": "Alejandro Zaragoza Elías",
   "license": "ISC",
   "dependencies": {
